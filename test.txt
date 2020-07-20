@@ -8,4 +8,5 @@
 이클립스 충돌 해결 - 프로젝트 마우스 우클릭 -> Team -> Syncronize Workspace -> 수동머지 후, Mark as Merged
 이클립스 충돌 올바른 해결법
 이클립스 충돌 해결 - 커밋(and push) -> 충돌확인 -> pull -> 머지 -> 커밋(and push)
+이클립스 pull 충돌 회피 확인
 이클립스에서 pull할때 충돌을 피하고 싶다.
