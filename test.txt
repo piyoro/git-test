@@ -19,4 +19,8 @@
 
 이제 뭐하고 놀지...
 
+<<<<<<< HEAD
 파일이 삭제되는걸 내눈으로 목격하였어...
+=======
+다시 파일 삭제 확인
+>>>>>>> branch 'master' of https://github.com/piyoro/git-test.git
