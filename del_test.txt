@@ -7,4 +7,8 @@
 1.이클립스에서 del_test.txt 수정하고 commit
 2.소스트리에서 del_test.txt 수정하고 commit & push
 
+<<<<<<< HEAD
 1.소스트리에서 del_test.txt 수정하고 commit & push
+=======
+2.이클립스에서 del_test.txt 수정하고 commit & push
+>>>>>>> b7d161368ac7db2439ae1ca04edff3487e4b2551
