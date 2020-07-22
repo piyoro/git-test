@@ -2,3 +2,5 @@
 
 3.소스트리에서 del_2_test.txt 수정하고 commit & push
 3.소스트리에서 del_2_test.txt 수정하고 commit & push
+
+6.이클립스에서 del_2_test.txt 수정하고 commit & push
