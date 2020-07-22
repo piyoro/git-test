@@ -6,3 +6,5 @@
 1.이클립스에서 del_test.txt 수정하고 commit
 1.이클립스에서 del_test.txt 수정하고 commit
 2.소스트리에서 del_test.txt 수정하고 commit & push
+
+2.이클립스에서 del_test.txt 수정하고 commit & push
