@@ -1,1 +1,3 @@
 새로운 파일 삭제도 같이 확인
+
+5.소스트리에서 del_test.txt 수정하고 commit & push
